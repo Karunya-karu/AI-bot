@@ -3,7 +3,7 @@
 Company Research Assistant (Account Plan Generator)
 🧠 Project Overview
 
-The Company Research Assistant is an AI-powered conversational agent built using Chatbase. It helps users research companies through natural conversation and automatically generates structured, actionable Account Plans.
+The Company Research Assistant is an AI-powered conversational agent built. It helps users research companies through natural conversation and automatically generates structured, actionable Account Plans.
 
 The agent adapts to different user personas, detects conflicting information, supports section-level editing, and provides clear research updates.
 This project demonstrates conversational intelligence, agentic behaviour, reasoning abilities, and structured plan generation.
